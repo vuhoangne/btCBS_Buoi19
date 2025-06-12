@@ -1,7 +1,5 @@
 # 👥 Hệ Thống Quản Lý Nhân Viên
 
-![Banner](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-2VebsO5SZqXD03BM0o5zyCI3JO0otj.png)
-
 Ứng dụng web quản lý nhân viên toàn diện được xây dựng bằng HTML, CSS, JavaScript và Bootstrap 5. Hệ thống cho phép quản lý thông tin nhân viên, tính lương, phân loại hiệu suất và tạo báo cáo thống kê.
 
 ## 📋 Mục lục
@@ -40,11 +38,6 @@
 - **Top nhân viên xuất sắc**: Hiển thị danh sách nhân viên xuất sắc nhất
 
 ## 🖼️ Demo
-
-![Dashboard](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-2VebsO5SZqXD03BM0o5zyCI3JO0otj.png)
-![Danh sách nhân viên](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-sdvCdirQjSQ0bbFnybI3A5Ru4JbhHH.png)
-![Validation](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-aQjIvkFWFkqrekvLHlLY579zx5kKWB.png)
-![Xếp loại](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-6zs2U89IwjvoVKqiOhZA7uAFXZBUUi.png)
 
 ## 🚀 Cài đặt
 
@@ -178,4 +171,4 @@ Nếu bạn phát hiện lỗi hoặc có ý tưởng cải thiện, vui lòng:
 
 ---
 
-**© 2024 Lê Nguyễn Vũ Hoàng. All rights reserved.**
+**© 2025 Lê Nguyễn Vũ Hoàng. All rights reserved.**
